@@ -5,5 +5,5 @@
 ```py
 from src import main
 
-print(main('USERNAME HERE','PASSWORD HERE'))
+print(main('EMAIL HERE','PASSWORD HERE'))
 ```
